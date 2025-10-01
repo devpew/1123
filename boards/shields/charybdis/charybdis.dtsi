@@ -26,7 +26,7 @@
         diode-direction = "row2col";
     };
 
-    charybdis_physical_layout: charybdis_physical_layout {
+    charybdis_6col_layout: charybdis_6col_layout {
         compatible = "zmk,physical-layout";
         display-name = "Charybdis 4x6";
 
@@ -118,6 +118,7 @@
         };
     };
 };
+
 
 
 
