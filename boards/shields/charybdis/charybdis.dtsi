@@ -30,7 +30,6 @@
         compatible = "zmk,physical-layout";
         display-name = "Charybdis 4x6";
 
-        kscan = <&kscan0>;
         transform = <&default_transform>;
 
         keys
@@ -118,6 +117,7 @@
         };
     };
 };
+
 
 
 
