@@ -100,7 +100,6 @@
             , <&key_physical_attrs 100 100 1052  520 (-3000)  1102   790>
             ;
     };
-};
 
     charybdis_position_map {
         compatible = "zmk,physical-layout-position-map";
@@ -119,4 +118,7 @@
         };
     };
 };
+
+
+
 
