@@ -149,6 +149,10 @@
       key-positions = <0 4>;
       bindings = <&studio_unlock>;
     };
+    combo_bootloader_right {
+      key-positions = <22 23>;
+      bindings = <&bootloader>;
+    };
   };
   chosen {
     zmk,physical-layout = &charybdis_6col_layout;
@@ -291,6 +295,7 @@
     };
   };
 };
+
 
 
 
